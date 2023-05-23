@@ -42,7 +42,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:layout_margin="3dp"
-                    android:insetright="2dp"
+                    android:insetRight="2dp"
                     android:text="@string/Arrancar" />
 
                 <Button
@@ -51,7 +51,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:layout_margin="3dp"
-                    android:insetright="2dp"
+                    android:insetRight="2dp"
                     android:text="@string/Configurar" />
             </TableRow>
 
@@ -65,7 +65,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:layout_margin="3dp"
-                    android:insetright="2dp"
+                    android:insetRight="2dp"
                     android:text="@string/Acercade" />
 
                 <Button
@@ -74,7 +74,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:layout_margin="3dp"
-                    android:insetright="2dp"
+                    android:insetRight="2dp"
                     android:text="@string/Salir" />
             </TableRow>
 

@@ -42,6 +42,7 @@
             android:id="@+id/btn_show"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
+            android:onClick="lanzarAcercaDe"
             android:text="@string/Acercade"
             app:cornerRadius="25dp" />
 
@@ -49,6 +50,7 @@
             android:id="@+id/btn_salir"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
+            android:onClick="salir"
             android:text="@string/Salir"
             app:cornerRadius="25dp" />
     </LinearLayout>
