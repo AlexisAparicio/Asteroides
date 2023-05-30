@@ -11,13 +11,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Asteroides"
         tools:targetApi="31">
-
+        <activity
+            android:name=".login2"
+            android:exported="false" />
+        <activity
+            android:name=".Login"
+            android:exported="false" />
         <activity
             android:name=".AcercaDe"
             android:label="Acerca de"
-            android:theme="@android:style/Theme.Dialog">
-        </activity>
-
+            android:theme="@android:style/Theme.Dialog" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
